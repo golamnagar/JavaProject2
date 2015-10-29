@@ -3,9 +3,11 @@ package FirstPackage;
 public class MethodCall {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-  print();
-  sum();
+		// This is the Main Method
+    // This method call the print function
+		print();
+		// This method call the sum function
+     sum();
 	}
 
 	public static void print() {
@@ -15,7 +17,7 @@ public class MethodCall {
 	
 	public static void sum(){
 		
-		int a = 12;
+		int a = 892;
 		int b = 13;
 		int sum;
 		
